@@ -86,13 +86,13 @@ https://deepmind.com/research/publications/
 *   [Unsupervised Adversarial Training](unsupervised_adversarial_training), NeurIPS 2019
 *   [Graph Matching Networks for Learning the Similarity of Graph Structured
     Objects](graph_matching_networks), ICML 2019
-*   [REGAL: Transfer Learning for Fast Optimization of Computation Graphs](regal)
+*   [REGAL: Transfer Learning for Fast Optimization of Computation Graphs](rega)
 *   [Deep Ensembles: A Loss Landscape Perspective](ensemble_loss_landscape)
 *   [Powerpropagation](powerpropagation)
 *   [Physics Inspired Models](physics_inspired_models)
 
 
 
-## Disclaimer
+Disclaimer
 
 *This is not an official Google product.*
